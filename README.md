@@ -1,7 +1,9 @@
 hello im sushiover
 
 im learning html5
+
 im learning python
+
 i like doing random stuff
 
 to contact me: sushiover993@gmail.com
